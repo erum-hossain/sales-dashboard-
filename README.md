@@ -137,4 +137,5 @@ This dataset is synthetically generated to reflect realistic retail sales patter
 
 **Erum Fatma Hossain**
 MS in Business Analytics — UMass Boston
+Data Analyst — Amazon
 [LinkedIn](https://linkedin.com/in/erum-fatma-hossain) • [GitHub](https://github.com/erum-hossain)
